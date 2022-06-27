@@ -1,0 +1,92 @@
+INFO  07:13:50 Application started. Press Ctrl+C to shut down.
+INFO  07:13:50 Application started. Press Ctrl+C to shut down.
+INFO  07:13:50 Hosting environment: Development
+INFO  07:13:50 Hosting environment: Development
+INFO  07:13:50 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\PolicyMicroservice
+INFO  07:13:50 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\PolicyMicroservice
+INFO  08:09:56 Application started. Press Ctrl+C to shut down.
+INFO  08:09:56 Application started. Press Ctrl+C to shut down.
+INFO  08:09:56 Hosting environment: Development
+INFO  08:09:56 Hosting environment: Development
+INFO  08:09:56 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\PolicyMicroservice
+INFO  08:09:56 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\PolicyMicroservice
+INFO  08:11:51 Data is not valid in GetEligibleBenefit for the entered MemberId :0 PolicyId :0
+INFO  08:12:41 Data is not valid for GetEligibleClaimAmount for the entered PolicyId :0 MemberId :0 BenefitId :0
+INFO  08:15:33 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :1001 BenefitId :101
+INFO  08:15:50 Data not found for GetEligibleClaimAmount for the entered PolicyId :1 MemberId :1001 BenefitId :101
+INFO  08:15:50 GetEligibleBenefit is accessed for MemberId :1001 PolicyId :1
+INFO  08:15:50 Data not found in GetEligibleBenefit for the entered MemberId :1001 PolicyId :1
+INFO  08:35:20 GetEligibleClaimAmount is accesed for PolicyId :101 MemberId :201 BenefitId :1
+INFO  08:35:20 Data not found for GetEligibleClaimAmount for the entered PolicyId :101 MemberId :201 BenefitId :1
+INFO  08:35:20 GetEligibleBenefit is accessed for MemberId :201 PolicyId :101
+INFO  08:35:20 Data not found in GetEligibleBenefit for the entered MemberId :201 PolicyId :101
+INFO  09:07:39 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :2 BenefitId :1
+INFO  09:07:39 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :2 BenefitId :1
+INFO  09:07:39 GetEligibleBenefit is accessed for MemberId :2 PolicyId :1
+INFO  09:07:39 Data fetched in GetEligibleBenefit for the entered MemberId :2 PolicyId :1
+INFO  11:22:15 Application started. Press Ctrl+C to shut down.
+INFO  11:22:15 Application started. Press Ctrl+C to shut down.
+INFO  11:22:15 Hosting environment: Development
+INFO  11:22:15 Hosting environment: Development
+INFO  11:22:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:22:15 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:30:02 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:30:02 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:30:02 GetEligibleBenefit is accessed for MemberId :2 PolicyId :1
+INFO  11:30:02 Data fetched in GetEligibleBenefit for the entered MemberId :2 PolicyId :1
+INFO  11:30:02 Data Fetched for PolicyId :1
+INFO  11:30:02 GetChainOfProviders Accesed for policyId :1
+INFO  11:57:44 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:57:44 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:57:44 GetEligibleBenefit is accessed for MemberId :2 PolicyId :1
+INFO  11:57:44 Data fetched in GetEligibleBenefit for the entered MemberId :2 PolicyId :1
+INFO  11:34:50 Application started. Press Ctrl+C to shut down.
+INFO  11:34:50 Application started. Press Ctrl+C to shut down.
+INFO  11:34:50 Hosting environment: Development
+INFO  11:34:50 Hosting environment: Development
+INFO  11:34:50 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:34:50 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\PolicyMicroservice
+INFO  11:39:48 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :3 BenefitId :1
+INFO  11:39:48 Data not found for GetEligibleClaimAmount for the entered PolicyId :1 MemberId :3 BenefitId :1
+INFO  11:39:49 GetEligibleBenefit is accessed for MemberId :3 PolicyId :1
+INFO  11:39:49 Data not found in GetEligibleBenefit for the entered MemberId :3 PolicyId :1
+INFO  11:47:35 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:47:35 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:47:35 GetEligibleBenefit is accessed for MemberId :2 PolicyId :1
+INFO  11:47:35 Data fetched in GetEligibleBenefit for the entered MemberId :2 PolicyId :1
+INFO  11:47:35 Data Fetched for PolicyId :1
+INFO  11:47:35 GetChainOfProviders Accesed for policyId :1
+INFO  11:48:27 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :3 BenefitId :1
+INFO  11:48:27 Data not found for GetEligibleClaimAmount for the entered PolicyId :1 MemberId :3 BenefitId :1
+INFO  11:48:27 GetEligibleBenefit is accessed for MemberId :3 PolicyId :1
+INFO  11:48:27 Data not found in GetEligibleBenefit for the entered MemberId :3 PolicyId :1
+INFO  11:49:00 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:49:00 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:49:00 GetEligibleBenefit is accessed for MemberId :2 PolicyId :1
+INFO  11:49:00 Data fetched in GetEligibleBenefit for the entered MemberId :2 PolicyId :1
+INFO  11:49:00 Data Fetched for PolicyId :1
+INFO  11:49:00 GetChainOfProviders Accesed for policyId :1
+INFO  11:56:13 GetEligibleClaimAmount is accesed for PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:56:13 Data fetched for GetEligibleAmount for the entered PolicyId :1 MemberId :2 BenefitId :1
+INFO  11:56:13 GetEligibleBenefit is accessed for MemberId :2 PolicyId :1
+INFO  11:56:13 Data fetched in GetEligibleBenefit for the entered MemberId :2 PolicyId :1
+INFO  11:56:13 Data Fetched for PolicyId :1
+INFO  11:56:13 GetChainOfProviders Accesed for policyId :1
+INFO  12:13:30 Application started. Press Ctrl+C to shut down.
+INFO  12:13:30 Application started. Press Ctrl+C to shut down.
+INFO  12:13:30 Hosting environment: Development
+INFO  12:13:30 Hosting environment: Development
+INFO  12:13:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\PolicyMicroservice
+INFO  12:13:30 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\PolicyMicroservice
+INFO  12:13:30 GetEligibleClaimAmount is accesed for PolicyId :3 MemberId :4 BenefitId :2
+INFO  12:13:30 Data fetched for GetEligibleAmount for the entered PolicyId :3 MemberId :4 BenefitId :2
+INFO  12:13:31 GetEligibleBenefit is accessed for MemberId :4 PolicyId :3
+INFO  12:13:31 Data fetched in GetEligibleBenefit for the entered MemberId :4 PolicyId :3
+INFO  12:13:31 Data Fetched for PolicyId :3
+INFO  12:13:31 GetChainOfProviders Accesed for policyId :3
+INFO  03:44:50 Application started. Press Ctrl+C to shut down.
+INFO  03:44:50 Application started. Press Ctrl+C to shut down.
+INFO  03:44:50 Hosting environment: Development
+INFO  03:44:50 Hosting environment: Development
+INFO  03:44:50 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\PolicyMicroservice
+INFO  03:44:50 Content root path: C:\Users\HP\Downloads\ClaimManagementSystem-2\PolicyMicroservice
